@@ -16,8 +16,7 @@
   "main": "./dist/index.js",
   "types": "./index.d.ts",
   "scripts": {
-    "build": "webpack --config webpack.config.js",
-    "lint": "eslint --ext .js ."
+    "build": "webpack --config webpack.config.js"
   },
   "repository": {
     "type": "git",
